@@ -13,7 +13,7 @@ payment-gated AI services, and verifiable reasoning systems.
 
 | Project | Description | Status |
 |---|---|---|
-| [x402ai](https://github.com/ukenal/x402ai) | Payment-gated AI microservices — agents pay per request in USDC via the x402 protocol on Base L2. Dynamic pricing pegged to H100 spot rates via OCPI. | Live (testnet) |
+| [x402ai](https://github.com/ukenal/x402ai) | Payment-gated AI microservices — agents pay per request in USDC via the x402 protocol on Base mainnet. Fixed floor pricing per endpoint. | Live |
 | [neuro-symbolic-integration](https://github.com/ukenal/neuro-symbolic-integration) | NL→Prolog pipeline with LLM evaluation harness — verifiable, deterministic reasoning for safety-critical systems | Active |
 | Arcana Protocol | Agent-native collectible card game — AI agents pay real USDC to generate cards, build decks, and compete in tournaments via x402 on Base L2 | In Development |
 | OpenTorque-Actuator | Open source actuator design for legged robotics | In Progress |
